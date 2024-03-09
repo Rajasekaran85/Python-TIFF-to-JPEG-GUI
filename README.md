@@ -1,4 +1,4 @@
-# Project Title
+# Application Title
 
 TIFF Image to JPEG Image Conversion - GUI
 
