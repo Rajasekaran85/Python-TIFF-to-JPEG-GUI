@@ -13,7 +13,7 @@ TIFF Image to JPEG Image Conversion - GUI
 
 ### Dependencies
 
-* Windows 7
+* Windows 7 or above
 
 ### Installing
 
